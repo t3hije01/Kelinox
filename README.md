@@ -4,10 +4,9 @@ Kelinox is a weather application designed to provide real-time weather updates f
 
 ## Features
 
-- **Real-Time Weather Updates**: Get the latest weather information including temperature, humidity, wind speed, and more.
-- **Forecast**: View weather forecasts for the upcoming days.
+- **Real-Time Weather Updates**: Get the latest weather information including temperature, wind speed and clothing tips!
+- **Forecast**: View current weather.
 - **Search**: Search weather by city name or location.
-- **Multi-Language Support**: Kelinox supports multiple languages for a diverse user base.
 - **Weather Icons**: Visually represent different weather conditions with beautiful icons.
 
 ## Technologies Used
